@@ -2,7 +2,7 @@
 
 - :lock: A CyberSecurity Lover
 - :computer: A Python Student
-- :cocktail: Oh, and I also love to drink a Vesper Martini. Shaken, NOT stirred ;)
+- :cocktail: Oh, and I also love to drink a Vesper. Shaken, NOT stirred ;)
 
 ---
 ### :tea: Languages:
