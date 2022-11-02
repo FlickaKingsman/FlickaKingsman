@@ -16,12 +16,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 ---
-### :crescent_moon: Languages:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-
+### :crescent_moon: Languages:
 (https://github.com/FlickaKingsman/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=dracula&hide_border=true&currStreakNum=FFFFFF&sideNums=DFEBE0)](https://git.io/streak-stats)
