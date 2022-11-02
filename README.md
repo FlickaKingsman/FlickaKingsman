@@ -18,7 +18,7 @@
 
 ---
 ### Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=merkol&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=midnight-purplel&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 ---
 ### Stats
