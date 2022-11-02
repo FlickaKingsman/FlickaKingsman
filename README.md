@@ -14,12 +14,13 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 ---
 ### Principais linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compact&theme=vision-friendly-dark)](https://github.com/FlickaKingsman/github-readme-stats)
 
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 <!--
