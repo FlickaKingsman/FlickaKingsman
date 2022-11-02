@@ -9,7 +9,6 @@
 <div>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" alt="Shell" width="40" height="40"/>&nbsp;
-  
 </div>
 
 ---
@@ -17,14 +16,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=merko&hide_border=true&currStreakNum=FFFFFF&sideNums=DFEBE0)](https://git.io/streak-stats)
 
-
 ---
 ### Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=nightowl&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=merkol&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 ---
 ### Stats
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=merko&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 <!--
