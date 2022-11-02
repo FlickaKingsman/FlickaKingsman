@@ -17,11 +17,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=merko&hide_border=true&currStreakNum=FFFFFF&sideNums=DFEBE0)](https://git.io/streak-stats)
 
 ---
-### Languages:
+### :crescent_moon: Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=vision-friendly-dark&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 ---
-### Stats
+### :fire: Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=merko&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 <!--
