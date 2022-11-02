@@ -1,7 +1,7 @@
 ###  :technologist: About Me :
 
 - :lock: A CyberSecurity Lover
-- :computer: A Python Student
+- :computer: A Python and Shell Script Student
 - :cocktail: Oh, and I also love to drink a Vesper. Shaken, NOT stirred ;)
 
 ---
