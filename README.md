@@ -14,7 +14,7 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=dracula&currStreakNum=FFFFFF&ring=B73BFFB7&background=262626&stroke=DDDDDD&border=DDDDDD&fire=B1B1DD&sideNums=D37CFF&currStreakLabel=EFEFEF&sideLabels=DDDDDD&dates=A097DD)](https://git.io/streak-stats)
 
 <!--
 **FlickaKingsman/FlickaKingsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
