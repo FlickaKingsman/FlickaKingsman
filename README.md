@@ -14,7 +14,7 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=midnight-purple&hide_border=true&sideNums=BFA0FF&currStreakNum=FFFFFFDC)](https://git.io/streak-stats)
 
 ---
 ### Principais linguagens
