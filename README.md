@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+### :technologist: About Me :
+- :lock: A CyberSecurity Lover
+- :computer: A Python Student
+- :cocktail: Oh, and I also love to drink a Vesper Martini. Shaken, NOT stirred ;)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
