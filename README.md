@@ -1,14 +1,16 @@
-### Hi there 👋
+###  :technologist: About Me :
+
+- :lock: A CyberSecurity Lover
+- :computer: A Python Student
+- :cocktail: Oh, and I also love to drink a Vesper Martini. Shaken, NOT stirred ;)
 
 <!--
 **FlickaKingsman/FlickaKingsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-### :technologist: About Me :
-- :lock: A CyberSecurity Lover
-- :computer: A Python Student
-- :cocktail: Oh, and I also love to drink a Vesper Martini. Shaken, NOT stirred ;)
+###
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
