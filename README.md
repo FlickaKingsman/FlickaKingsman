@@ -18,7 +18,7 @@
 ---
 ### :crescent_moon: Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="90cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=dracula&hide_border=true"/>
 
