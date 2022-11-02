@@ -17,7 +17,7 @@
 
 ---
 ### :crescent_moon: Languages:
-<img height="90cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=vision-friendly-dark&hide_border=true/"
+<img height="90cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=vision-friendly-dark&hide_border=true"/>
 
 <img height="90cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compact&langs_count=16&theme=dracula"/>
 
