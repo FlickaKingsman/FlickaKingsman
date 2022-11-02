@@ -18,7 +18,7 @@
 ---
 ### :crescent_moon: Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
