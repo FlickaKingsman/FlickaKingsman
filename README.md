@@ -12,12 +12,14 @@
 </div>
 
 ---
+### :fire: Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
+
+---
 ### :crescent_moon: Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=vision-friendly-dark&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
----
-### :fire: Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
+
 
 <!--
 
