@@ -12,11 +12,6 @@
 </div>
 
 ---
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=merko&hide_border=true&currStreakNum=FFFFFF&sideNums=DFEBE0)](https://git.io/streak-stats)
-
----
 ### :crescent_moon: Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=vision-friendly-dark&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
@@ -26,14 +21,16 @@
 
 <!--
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=merko&hide_border=true&currStreakNum=FFFFFF&sideNums=DFEBE0)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=midnight-purple&hide_border=true&sideNums=BFA0FF&currStreakNum=FFFFFFDC)](https://git.io/streak-stats)
+
 **FlickaKingsman/FlickaKingsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 ###
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
