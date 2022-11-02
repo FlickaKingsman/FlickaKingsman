@@ -18,7 +18,7 @@
 
 ---
 ### Principais linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=tokyonight&theme=vision-friendly-dark)](https://github.com/FlickaKingsman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman)](https://github.com/FlickaKingsman/github-readme-stats)
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
