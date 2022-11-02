@@ -17,11 +17,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=midnight-purple&hide_border=true&sideNums=BFA0FF&currStreakNum=FFFFFFDC)](https://git.io/streak-stats)
 
 ---
-### Principais linguagens
+### Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=nightowl&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlickaKingsman&count_private=true&show_icons=true&theme=merko&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
 
 <!--
 **FlickaKingsman/FlickaKingsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
