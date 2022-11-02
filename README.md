@@ -14,8 +14,7 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=dracula&hide_border=true&currStreakNum=FFFFFF&ring=B73BFFB7&background=262626&stroke=DDDDDD&border=DDDDDD&fire=B1B1DD&sideNums=D37CFF&currStreakLabel=EFEFEF&sideLabels=DDDDDD&dates=A097DD)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 ---
 ### Principais linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
