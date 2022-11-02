@@ -17,13 +17,16 @@
 
 ---
 ### :crescent_moon: Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=vision-friendly-dark&hide_border=true)](https://github.com/FlickaKingsman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compac&theme=vision-friendly-dark&hide_border=true)]
 
 <img height="90cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlickaKingsman&layout=compact&langs_count=16&theme=dracula"/>
 
 
 
 <!--
+
+(https://github.com/FlickaKingsman/github-readme-stats)
+
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlickaKingsman&theme=merko&hide_border=true&currStreakNum=FFFFFF&sideNums=DFEBE0)](https://git.io/streak-stats)
